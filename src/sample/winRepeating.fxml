@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="355.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.ControllWinRepeating">
+   <children>
+      <TextField fx:id="translWord" alignment="CENTER" layoutX="75.0" layoutY="171.0" prefHeight="60.0" prefWidth="450.0" promptText="Введите перевод слова" style="-fx-background-radius: 0;">
+         <font>
+            <Font size="30.0" />
+         </font></TextField>
+      <Button id="butBack" fx:id="butProv" layoutX="405.0" layoutY="262.0" mnemonicParsing="false" onMouseClicked="#Proverka" prefHeight="40.0" prefWidth="120.0" style="-fx-background-color: #ebf710;" stylesheets="@winButton.css" text="Проверить">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Button>
+      <Button id="butBack" fx:id="butNKnow" layoutX="75.0" layoutY="262.0" mnemonicParsing="false" onMouseClicked="#nKnow" prefHeight="40.0" prefWidth="120.0" style="-fx-background-color: rgba(19, 192, 255, 0.38);" stylesheets="@winButton.css" text="Незнаю">
+         <font>
+            <Font size="16.0" />
+         </font></Button>
+      <BorderPane layoutX="21.0" layoutY="14.0" prefHeight="142.0" prefWidth="558.0">
+         <center>
+            <Label fx:id="word" alignment="CENTER" contentDisplay="CENTER" text="слово" BorderPane.alignment="CENTER">
+               <font>
+                  <Font size="37.0" />
+               </font>
+            </Label>
+         </center>
+         <bottom>
+            <Label fx:id="youWord" BorderPane.alignment="CENTER">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Label>
+         </bottom>
+      </BorderPane>
+   </children>
+</Pane>

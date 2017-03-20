@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.ControllerWinMain">
+   <opaqueInsets>
+      <Insets />
+   </opaqueInsets>
+   <children>
+      <Button fx:id="butMainRepet" mnemonicParsing="false" onMouseClicked="#ButRepeat" prefHeight="90.0" prefWidth="400.0" stylesheets="@winButton.css" text="Повторять">
+         <VBox.margin>
+            <Insets left="100.0" top="60.0" />
+         </VBox.margin>
+         <font>
+            <Font size="40.0" />
+         </font>
+      </Button>
+      <Button fx:id="butMainLoad" mnemonicParsing="false" onMouseClicked="#ButLoad" prefHeight="90.0" prefWidth="400.0" stylesheets="@winButton.css" text="Загрузить">
+         <VBox.margin>
+            <Insets left="100.0" top="3.0" />
+         </VBox.margin>
+         <font>
+            <Font size="40.0" />
+         </font>
+      </Button>
+      <Button fx:id="butMainExit" mnemonicParsing="false" onMouseClicked="#ButExit" prefHeight="90.0" prefWidth="400.0" stylesheets="@winButton.css" text="Выйти">
+         <VBox.margin>
+            <Insets left="100.0" top="3.0" />
+         </VBox.margin>
+         <font>
+            <Font size="40.0" />
+         </font>
+      </Button>
+   </children>
+</VBox>

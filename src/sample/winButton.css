@@ -1,0 +1,25 @@
+.button {
+    -fx-padding: 0 0 0 0;
+    -fx-border-width: 0;
+    -fx-border-radius: 0;
+    -fx-background-radius: 0;
+
+    -fx-background-color: #dec1f8;
+}
+.button:focused {
+    -fx-border-width: 2;
+    -fx-border-color: #353bc7;
+}
+.button:hover {
+    -fx-background-color: #923be4;
+}
+#butLoad:focused {
+    -fx-background-color: #923be4;
+}
+#butBack {
+    -fx-background-color: #ffffff;
+}
+#butBack:focused {
+    -fx-border-width: 2;
+    -fx-border-color: #353bc7;
+}

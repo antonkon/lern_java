@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="365.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.ControllWinFinish">
+   <children>
+      <Button fx:id="butFinish" layoutX="159.0" layoutY="287.0" mnemonicParsing="false" onMouseClicked="#ButExit" prefHeight="50.0" prefWidth="283.0" stylesheets="@winButton.css" text="Закончить повторение">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Button>
+      <Label alignment="CENTER" layoutX="107.0" layoutY="63.0" text="Знакомых слов :">
+         <font>
+            <Font size="30.0" />
+         </font>
+      </Label>
+      <Label fx:id="labT" layoutX="421.0" layoutY="63.0" text="Label" textFill="#24e400">
+         <font>
+            <Font size="30.0" />
+         </font>
+      </Label>
+      <Label layoutX="69.0" layoutY="132.0" text="Незнакомых слов :">
+         <font>
+            <Font size="30.0" />
+         </font>
+      </Label>
+      <Label fx:id="labF" layoutX="421.0" layoutY="132.0" text="Label" textFill="#e40f00">
+         <font>
+            <Font size="30.0" />
+         </font>
+      </Label>
+      <Button fx:id="butContinue" layoutX="158.0" layoutY="226.0" mnemonicParsing="false" onMouseClicked="#ButContinue" prefHeight="50.0" prefWidth="283.0" stylesheets="@winButton.css" text="Продолжить повторение">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Button>
+   </children>
+</Pane>

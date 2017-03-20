@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="345.0" prefWidth="650.0" style="-fx-background-color: #ffffff;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.ControllWinRepeatMain">
+   <children>
+      <Button fx:id="butRUEN" layoutX="50.0" layoutY="80.0" mnemonicParsing="false" onMouseClicked="#ButRUEN" prefHeight="180.0" prefWidth="200.0" stylesheets="@winButton.css" text="RU" textAlignment="CENTER">
+         <font>
+            <Font size="70.0" />
+         </font></Button>
+      <Button fx:id="butENRU" layoutX="400.0" layoutY="83.0" mnemonicParsing="false" onMouseClicked="#ButENRU" prefHeight="180.0" prefWidth="200.0" stylesheets="@winButton.css" text="EN" textAlignment="CENTER">
+         <font>
+            <Font size="70.0" />
+         </font></Button>
+      <ComboBox fx:id="repeatValue" layoutX="293.0" layoutY="149.0" prefHeight="42.0" prefWidth="65.0" />
+      <Button fx:id="butBack" id="butBack" layoutX="26.0" layoutY="276.0" mnemonicParsing="false" onMouseClicked="#ButBack" prefHeight="40.0" prefWidth="90.0" stylesheets="@winButton.css" text="&lt;---">
+         <font>
+            <Font size="30.0" />
+         </font>
+      </Button>
+      <Label layoutX="127.0" layoutY="54.0" text="Ru - En" />
+      <Label layoutX="482.0" layoutY="54.0" text="En - Ru" />
+   </children>
+</Pane>

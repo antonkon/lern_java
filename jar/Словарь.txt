@@ -1,0 +1,185 @@
+[мощный]{powerful}0
+[выключать]{turn off}0
+[применять]{apply}0
+[включать]{turn on}0
+[создавать, развивать]{develop}0
+[усиливать]{amplify}0
+[выполнять, завершать]{complete}0
+[существовать]{exist}0
+[позволять, давать возможность]{enable}0
+[приводить к]{result in}0
+[зависеть от]{depend on}0
+[обрабатывать]{process}0
+[измерять]{measure}0
+[действовать]{act}0
+[проходить сквозь]{pass through}0
+[проецировать]{project}0
+[продвигать]{promote}0
+[изменять]{transform}0
+[сдавать вступительные экзамены]{pass entrance examinations}0
+[несдать экзамен]{fail an examination}0
+[оставаться в памяти]{stay resident}0
+[оставаться]{remain}0
+[скрывать, прятать]{hide}0
+[запирать, закрывать]{lock}0
+[цепь, схема]{circuit}0
+[электрич. ток]{current}0
+[движение, работа]{operation}0
+[сложный]{complex}0
+[вычислительная техника]{computer engineering}0
+[интегральная схема]{integrated circuit}0
+[производитель]{manufacturer}0
+[рынок]{market}0
+[движение]{motion}0
+[богатый]{wealthy}0
+[высшее]{higher}0
+[гуманитарные]{humanities}0
+[среднее образование]{secondary education}0
+[образовательное учереждение]{educational establishment}0
+[бесплатный]{free of charge}0
+[общественное развитие]{social development}0
+[выпускник школы]{school leaver}0
+[хорошо оплачиваемая работа]{well-paid job}0
+[низко оплачиваемая работа]{low-paid job}0
+[царь]{tsar}0
+[зерновые культуры]{cereals}*
+[процветающий]{booming}0
+[бесперебойный]{uninterruptible}0
+[стандартная программа]{routine}0
+[главная программа]{host program}0
+[полезная нагрузка]{payload}0
+[неправильное направление]{misdirection}0
+[запускающее устройство]{trigger}0
+[зашифрованные данные]{encrypted data}0
+[разрушительный]{destructive}0
+[ПО поставщика]{vendor-supplied software}0
+[вставка в программу]{patching}0
+[неактивный, бездействующий]{dormant}0
+[катастрофа, бедствие]{disaster}0
+[уст. защиты от скачков напряж.]{surge protector}0
+[огнеупорный]{fireproof}0
+[после]{following}0
+[контакт]{junction}0
+[надежный]{reliable}0
+[переключать]{swithch}0
+[электронная лампа]{vacuum tube}0
+[полезный]{useful}0
+[монтаж, сборка]{assembly}0
+[различные, другой]{different}0
+[вручную]{manually}0
+[провод]{wire}0
+[решение]{solution}0
+[анод]{anode}0
+[катод]{cathode}0
+[конденсатор]{capacitor}0
+[диод]{diode}0
+[электрич. заряд]{electric charge}0
+[значение, номинал]{value}0
+[встроенный]{built-in}0
+[способность]{capability}0
+[корпус компьютера]{computer case}0
+[кусочек, элемент]{bit}0
+[цель]{aim}0
+[беспроводной]{wireless}0
+[проводное соединение]{wired connection}0
+[длина волны]{wavelength}0
+[передатчик]{transmitter}0
+[приемник]{receiver}0
+[перемещение, движение]{movement}0
+[представлять, вводить]{introduce}0
+[улучшение]{improvement}0
+[дыра]{hole}0
+[изобретатель]{inventor}0
+[смесь]{mixturn}0
+[помехи]{interference}0
+[невидимый]{invisible}0
+[частота]{frequency}0
+[колебания]{fluctuation}0
+[несущая]{carrier}0
+[модуляция]{modulation}0
+[амплитудная модуляция]{amplitude modulation}0
+[способ, метод]{way}0
+[разнообразие]{variety}0
+[тип]{type}0
+[запрос]{request}0
+[сеть]{network}0
+[опыт]{experience}0
+[передовать]{transmit}0
+[достигать]{reach}0
+[транслировать]{broadcast}0
+[хранить]{store}0
+[делить]{chare}0
+[искать]{search}0
+[требовать]{require}0
+[взаимодействовать]{interact}0
+[следовать]{follow}0
+[содержание]{content}0
+[понятие, идея]{concept}0
+[некий]{cortain}0
+[шаблон]{template}0
+[синтаксис]{syntax}0
+[последовательность]{sequence}0
+[язык сценариев]{scripting language}0
+[среда исполнения]{run-time enviroment}0
+[процедурный]{procedural}0
+[возможный]{possible}0
+[исходный код]{source code}0
+[о о п]{object-oriented}0
+[наследование]{inheritance}0
+[выполнение]{execution}0
+[зависание]{freeze}0
+[разрешение проблемы]{fix}0
+[неисправное железо]{faulty hardware}0
+[авария]{crash}0
+[распространенная ошибка]{common error}0
+[состоять из]{consist of}0
+[видоизменять]{modify}0
+[получать выгоду]{gain}0
+[широко использоваться]{be in wide use}0
+[изнашиваться]{wear down}0
+[заботиться о]{take care of}0
+[заменить]{replace}0
+[подключать]{plug in}0
+[самая последняя версия]{most recent version}0
+[запускать]{launch}0
+[избавиться]{get rid of}0
+[быстро меняться]{change rapidly}0
+[вызывать, быть причиной]{cause}0
+[быть зараженным]{be infected}0
+[преобразовывать]{convert}0
+[отключать]{unplug}0
+[составлять]{compose}0
+[повышать]{increase}0
+[предлагать]{offer}0
+[предоставлять]{provide}0
+[выполнять, запускать]{run}0
+[обслуживать]{serve}0
+[удостовериться]{ensure}0
+[пересылать]{forward}0
+[позволить]{let}0
+[предотвращать]{prevent}0
+[защищать]{protect}0
+[красть пароль]{steal password}0
+[обновлять]{update}0
+[искать в справочнике]{lookup}0
+[напрямую]{directly}0
+[косвенно]{indirectly}0
+[внутри]{inside}0
+[долгосрочный]{long-term}0
+[память]{memory}0
+[исполнение]{performance}0
+[переходник]{adapter}0
+[способный]{capable of}0
+[емкость, способность]{capacity}0
+[внешний]{external}0
+[функция]{feature}0
+[по сравнению]{in comparison}0
+[через, с помощью]{through}0
+[универсальность]{versatility}0
+[вес]{weight}0
+[вложение к письму]{attachment}0
+[сеть рассылающая спам]{botnet}0
+[вредоносное п о]{malicious software}0
+[п о с разрешенной рекламой]{adware}0
+[шпионское п о]{spyware}0
+[брандмауэр]{firewell}0
